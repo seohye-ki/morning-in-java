@@ -3,9 +3,9 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/seohye-ki"><img src="https://avatars.githubusercontent.com/u/94886139?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seohyeki" widt="100px"><br /><sub><b>김서현</b></sub></a><br /><sub><b>스터디원</b><br>ISFJ</br></sub></td>
-    <td align="center"><a href="https://github.com/criti0728"><img src="https://avatars.githubusercontent.com/u/83609571?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=boyoun1113" widt="100px"><br /><sub><b>박서하</b></sub></a><br /><sub><b>스터디원</b><br>INTP</br></sub></td>      
-    <td align="center"><a href="https://github.com/ljh0401"><img src="https://avatars.githubusercontent.com/u/78478247?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sjyoon55" widt="100px"><br /><sub><b>이준환</b></sub></a><br /><sub><b>스터디원</b><br>INTP</br></sub></td>      
-    <td align="center"><a href="https://github.com/pasongvan"><img src="https://avatars.githubusercontent.com/u/175183776?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=younprize" widt="100px"><br /><sub><b>피승빈</b></sub></a><br /><sub><b>스터디원</b><br>ISFJ</br></sub></td>     
+    <td align="center"><a href="https://github.com/criti0728"><img src="https://avatars.githubusercontent.com/u/83609571?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=criti0728" widt="100px"><br /><sub><b>박서하</b></sub></a><br /><sub><b>스터디원</b><br>INTP</br></sub></td>      
+    <td align="center"><a href="https://github.com/ljh0401"><img src="https://avatars.githubusercontent.com/u/78478247?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ljh0401" widt="100px"><br /><sub><b>이준환</b></sub></a><br /><sub><b>스터디원</b><br>INTP</br></sub></td>      
+    <td align="center"><a href="https://github.com/pasongvan"><img src="https://avatars.githubusercontent.com/u/175183776?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=piisbin" widt="100px"><br /><sub><b>피승빈</b></sub></a><br /><sub><b>스터디원</b><br>ISFJ</br></sub></td>     
   </tr>
 </table><br/>
 
@@ -33,49 +33,6 @@
 ---
 
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## ✅ Submit
 
