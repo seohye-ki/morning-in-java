@@ -40,12 +40,10 @@ public class Russia {
 			}
 			
 			//조합
-			int min = 2147483647;
+			int min = 2500;
 			for(int i = 1; i < N - 1; i++) {
-				for(int j = N - 1; j > 1; j--) {
+				for(int j = N - 1; j > i; j--) {
 					int sum = 0;
-					if(i >= j)
-						continue;
 					for(int k = 0; k < i; k++)
 						sum += coloring[k][0];
 					for(int k = i; k < j; k++)
