@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="1860 swea(개쩌는 붕어빵)"/>
+	<classpathentry kind="src" path="1979 swea(워들 자리찾기)/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
