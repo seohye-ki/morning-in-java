@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/seohye-ki"><img src="https://avatars.githubusercontent.com/u/94886139?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seohyeki" widt="100px"><br /><sub><b>김서현</b></sub></a><br /><sub><b>스터디원</b><br>ISFJ</br></sub></td>
-    <td align="center"><a href="https://github.com/criti0728"><img src="https://avatars.githubusercontent.com/u/83609571?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=criti0728" widt="100px"><br /><sub><b>박서하</b></sub></a><br /><sub><b>스터디원</b><br>INTP</br></sub></td>      
-    <td align="center"><a href="https://github.com/ljh0401"><img src="https://avatars.githubusercontent.com/u/78478247?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ljh0401" widt="100px"><br /><sub><b>이준환</b></sub></a><br /><sub><b>스터디원</b><br>INTP</br></sub></td>      
-    <td align="center"><a href="https://github.com/pasongvan"><img src="https://avatars.githubusercontent.com/u/175183776?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=piisbin" widt="100px"><br /><sub><b>피승빈</b></sub></a><br /><sub><b>스터디원</b><br>ISFJ</br></sub></td>     
+    <td align="center"><a href="https://github.com/seohye-ki"><img src="https://avatars.githubusercontent.com/u/94886139?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seohyeki" widt="100px"><br /><sub><b>김서현</b></sub></a><br /><sub><b>스터디장🐰</b><br>ISFJ</br></sub></td>
+    <td align="center"><a href="https://github.com/criti0728"><img src="https://avatars.githubusercontent.com/u/83609571?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=criti0728" widt="100px"><br /><sub><b>박서하</b></sub></a><br /><sub><b>히키코모리👀</b><br>INTP</br></sub></td>      
+    <td align="center"><a href="https://github.com/ljh0401"><img src="https://avatars.githubusercontent.com/u/78478247?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ljh0401" widt="100px"><br /><sub><b>이준환</b></sub></a><br /><sub><b>금메달리스트🥇</b><br>INTP</br></sub></td>      
+    <td align="center"><a href="https://github.com/pasongvan"><img src="https://avatars.githubusercontent.com/u/175183776?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=piisbin" widt="100px"><br /><sub><b>피승빈</b></sub></a><br /><sub><b>유튜버😎</b><br>ISFJ</br></sub></td>     
   </tr>
 </table><br/>
 
@@ -76,7 +76,7 @@ git commit -m "[BOJ]2557 / Hello World / 브론즈5 / seohyeonkim"
 |:--------:|:--------:|
 |Week 01</br>(07.18)|swea1979 어디에 단어가 들어갈 수 있을까</br>swea11315 오목판정</br>boj1244 스위치 켜고 끄기</br>swea1953 달팽이 숫자</br>swea1979 어디에 단어가 들어갈 수 있을까</br>|
 |Week 02</br>(07.23, 07.25)|boj18258 큐2</br>boj28278 스택2</br>swea4698 테네스의 특별한 소수</br>swea1860 진기의 최고급 붕어빵</br>swea7087 문제 제목 붙이기</br>boj2527 직사각형|
-|Week 03</br>(07.30, 08.01)|boj2477 참외밭</br>boj10158 개미</br>swea5356 의석이의 세로로 말해요</br>boj2567 색종이2|
+|Week 03</br>(07.30, 08.01)|boj2477 참외밭</br>boj10158 개미</br>swea5356 의석이의 세로로 말해요</br>boj2567 색종이2</br>swea2112 보호 필름|
 
 
 <br/>
