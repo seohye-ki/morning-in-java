@@ -10,8 +10,7 @@ public class Main {
 	static int[] dr = {0, 1, 0, -1}; // 행 방향 델타 배열
 	static int[] dc = {1, 0, -1, 0}; // 열 방향 델타 배열
 	static int idx = 0; // 델타 배열 인덱스
-	static int size;
-	static int max = 0; // 음식물 크기 최댓값
+	static int size = 0;
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -29,12 +28,14 @@ public class Main {
 		}
 		
 		// DFS 탐색
+		int max = 0;
 		for (int row=0; row<N; row++) {
 			for (int col=0; col<M; col++) {
-				if (floor[row][col] && !visit[row][col]) {
-					size = 1;
+				// 음식물이 있고 방문하지 않았을 때
+				if(floor[row][col] && !visit[row][col]) {
+					size = 0;
 					dfs(row, col, N, M);
-					if (max < size)
+					if (max < size) 
 						max = size;
 				}
 			}
@@ -45,15 +46,15 @@ public class Main {
 	
 	// DFS 메소드
 	static void dfs(int row, int col, int N, int M) {
+		visit[row][col] = true;
+		size++;
+		
 		for (int i=0; i<4; i++) {
+			int newRow = row + dr[i];
+			int newCol = col + dc[i];
 			
-			row += dr[i];
-			col += dc[i];
-			
-			if (row>=0 && row<N && col>=0 && col<M && floor[row][col] && !visit[row][col]) {
-				size++;
-				dfs(row, col, N, M);
-				
+			if (newRow>=0 && newRow<N && newCol>=0 && newCol<M && floor[newRow][newCol] && !visit[newRow][newCol]) {
+				dfs(newRow, newCol, N, M);
 			}
 		}
 	}
