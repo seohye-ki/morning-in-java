@@ -4,7 +4,7 @@
   <tr>
     <td align="center"><a href="https://github.com/seohye-ki"><img src="https://avatars.githubusercontent.com/u/94886139?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seohyeki" widt="100px"><br /><sub><b>김서현</b></sub></a><br /><sub><b>스터디장🐰</b><br>ISFJ</br></sub></td>
     <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/83609571?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seungui0325" widt="100px"><br /><sub><b>박서하</b></sub></a><br /><sub><b>버스타기마스터👍</b><br>INTP</br></sub></td>      
-    <td align="center"><a href="https://github.com/ljh0401"><img src="https://avatars.githubusercontent.com/u/78478247?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ljh0401" widt="100px"><br /><sub><b>이준환</b></sub></a><br /><sub><b>에이스🏆</b><br>INTP</br></sub></td>      
+    <td align="center"><a href="https://github.com/ljh0401"><img src="https://avatars.githubusercontent.com/u/78478247?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ljh0401" widt="100px"><br /><sub><b>이준환</b></sub></a><br /><sub><b>스터디홍보대사🏆</b><br>INTP</br></sub></td>      
     <td align="center"><a href="https://github.com/pasongvan"><img src="https://avatars.githubusercontent.com/u/175183776?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=piisbin" widt="100px"><br /><sub><b>피승빈</b></sub></a><br /><sub><b>유튜버😎</b><br>ISFJ</br></sub></td>     
   </tr>
 </table><br/>
@@ -20,7 +20,7 @@
 
 - 스터디 참여자 : **김서현, 박서하, 이준환, 피승빈**
 - 스터디 진행 : **24/07/15~**
-- 스터디 시간 : **화, 목 AM 8:10 - AM 9:00 오프라인**
+- 스터디 시간 : **수, 금 AM 8:10 - AM 9:00 오프라인**
 - 스터디 사용 언어 : **JAVA**
 - 스터디 문제 난이도 : **백준 실버이상 / swea D3이상**
 - 스터디 목적
@@ -80,7 +80,7 @@ git commit -m "[BOJ]2557 / Hello World / 브론즈5 / seohyeonkim"
 |Week 03</br>(07.30, 08.01)|boj2477 참외밭</br>boj10158 개미</br>swea5356 의석이의 세로로 말해요</br>boj2567 색종이2</br>swea2112 보호 필름|
 |Week 04</br>(08.06, 08.09)|boj1743 음식물 피하기</br>boj2667 단지번호붙이기</br>boj2178 미로 탐색</br>pgs 교점에 별 만들기</br>pgs 삼각 달팽이|
 |Week 05</br>(08.16)|swea2115 벌꿀채취</br>swea4012 요리사</br>swea4013 특이한자석|
-|Week 06</br>(08.21)|pgs 폰켓몬</br>pgs 완주하지 못한 선수</br>pgs 전화번호 목록</br>pgs 의상|
+|Week 06</br>(08.21, 08.22)|pgs 폰켓몬</br>pgs 완주하지 못한 선수</br>pgs 전화번호 목록</br>pgs 의상</br>pgs 기능개발</br>pgs 올바른 괄호</br>pgs 프로세스</br>pgs 다리를 지나는 트럭</br>pgs 주식가격|
 
 
 <br/>
