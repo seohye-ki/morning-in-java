@@ -81,6 +81,7 @@ git commit -m "[BOJ]2557 / Hello World / 브론즈5 / seohyeonkim"
 |Week 04</br>(08.06, 08.09)|boj1743 음식물 피하기</br>boj2667 단지번호붙이기</br>boj2178 미로 탐색</br>pgs 교점에 별 만들기</br>pgs 삼각 달팽이|
 |Week 05</br>(08.16)|swea2115 벌꿀채취</br>swea4012 요리사</br>swea4013 특이한자석|
 |Week 06</br>(08.21, 08.22)|pgs 폰켓몬</br>pgs 완주하지 못한 선수</br>pgs 전화번호 목록</br>pgs 의상</br>pgs 기능개발</br>pgs 올바른 괄호</br>pgs 프로세스</br>pgs 다리를 지나는 트럭</br>pgs 주식가격|
+|Week 07</br>(08.28, 08.30)|pgs 타겟넘버</br>pgs 네트워크</br>pgs 게임 맵 최단거리</br>pgs 단어변환</br>pgs 아이템 줍기</br>pgs 여행경로</br>pgs 퍼즐조각 채우기|
 
 
 <br/>
