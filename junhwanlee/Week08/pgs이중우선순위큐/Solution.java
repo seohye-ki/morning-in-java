@@ -1,20 +1,41 @@
 import java.util.*;
 
 class Solution {
-    public int solution(int[] scoville, int K) {
-        int answer = 0;
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
-        for(int i =0; i < scoville.length; i++) {
-            pq.add(scoville[i]);
+    public int[] solution(String[] operations) {
+        PriorityQueue<Integer> pq1 = new PriorityQueue<>();
+        PriorityQueue<Integer> pq2 = new PriorityQueue<>((a, b) -> b - a);
+        for (int i = 0; i < operations.length; i++) {
+            String[] tmp= operations[i].split(" "); 
+            String  play = tmp[0]; 
+            int num = Integer.parseInt(tmp[1]);
+            if (play.equals("I")) {
+                pq1.add(num);
+                pq2.add(num);
+            }
+            else {
+                if(!pq1.isEmpty()) {
+                    if(num == 1) {
+                        int del = pq2.poll();
+                        pq1.remove(del);
+                    }
+                    else {
+                        int del = pq1.poll();
+                        pq2.remove(del);
+                    }
+                }
+            }
         }
-        while(pq.peek() < K && pq.size() > 1) {
-            int num1 = pq.poll();
-            int num2 = pq.poll();
-            int tmp = num1 + (num2*2);
-            pq.add(tmp);
-            answer += 1;
+        int[] answer = new int[2];
+        if (!pq2.isEmpty()) {
+            if(pq2.size() == 1) {
+                answer[0] = pq2.poll();
+                answer[1] = answer[0];
+            }
+            else {
+                answer[0] = pq2.poll();
+                answer[1] = pq1.poll();
+            }
         }
-        if (pq.isEmpty() || pq.peek() < K) answer = -1;
         return answer;
     }
 }
